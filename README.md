@@ -24,8 +24,6 @@
 
 <p>Landing pages são páginas simples, objetivas e que tem o objetivo de levar os usuários a uma conversão, seja ela por meio de algum botão para um link externo, um preenchimento de um formulário ou alguma outra maneira ou ferramenta que você utilize para captar e armazenar estes dados. Por meio de uma landing page você só mostra o conteúdo realmente necessário, eliminando as possibilidades de gerar distração nos visitantes da sua página e fazendo com que ele foque somente no seu objetivo principal.</p>
 
-<p>Esses são um dos primeiros passos que um programador iniciante deve começar a estudar com as linguagens HTML5 e CSS3. Nesse Projeto você irá encontrar muitos exemplos de Landing Pages, Sites Estéticos e com isso desenvolver e melhorar suas habilidades como inicante.</p>
-
 <p align="center">
   <img src="https://i.imgur.com/kkEIkJj.png"/>
 </p>
